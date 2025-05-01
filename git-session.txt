@@ -1,0 +1,11 @@
+ 1727  git init
+ 1728  git status
+ 1729  ls -a
+ 1730  git status
+ 1731  git add testing.py
+ 1732  git status
+ 1733  git commit -m "added testing files"
+ 1734  rm testing.py
+ 1735  git status
+ 1736  git restore testing.py
+ 1737  git status
